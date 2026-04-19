@@ -1,0 +1,8 @@
+Contractor_QR_Project/
+├── index.html
+└── docs/          ← Create this folder
+    ├── contractor_permit.pdf
+    ├── iso_standard.pdf
+    ├── invoice.pdf
+    ├── scheduled_waste_sri_lanka.pdf
+    └── cida_guidelines.pdf
